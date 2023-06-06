@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.bio {
+    margin: 20px auto;
+    width: 50%;
+}
+
+.links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
