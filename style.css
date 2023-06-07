@@ -1,8 +1,8 @@
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     background-image: url("background.jpg");
     background-size: cover;
-    color: #fff;
+    color: grey;
     margin: 0;
     padding: 0;
     height: 100vh;
